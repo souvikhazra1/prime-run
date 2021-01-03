@@ -15,5 +15,5 @@ Developed By
 
 Note
 ---
-Main window has been designed using Qt Designer and `ui_main_window.py` is generated using:
+Main window has been designed using Qt Designer and `ui_main_window.py` is generated using:\
 `pyuic5 main_window.ui -o ui_main_window.py`
