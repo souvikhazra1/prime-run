@@ -13,6 +13,10 @@ Developed By
 ---
 [Souvik Hazra](https://github.com/souvikhazra1)
 
+Screenshot
+---
+![Screenshot](./screenshot/Screenshot_20210104_020643.png)
+
 Note
 ---
 Main window has been designed using Qt Designer and `ui_main_window.py` is generated using:\
