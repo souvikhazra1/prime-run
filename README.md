@@ -6,12 +6,17 @@ Know more about Prime [here](https://wiki.archlinux.org/index.php/PRIME).
 
 Python Packages
 ---
-* PyQt5
-* gi
+* PyQt5 - https://pypi.org/project/PyQt5
+* gi (Gio.AppInfo) - https://developer.gnome.org/pygobject/stable/class-gioappinfo.html
 
-Developed By
+Authors
 ---
-[Souvik Hazra](https://github.com/souvikhazra1)
+* [Souvik Hazra](https://github.com/souvikhazra1)
+
+Tools
+---
+* Visual Studio Code - https://code.visualstudio.com
+* Qt Designer (pyqt5-tools) - https://pypi.org/project/pyqt5-tools
 
 Screenshot
 ---
