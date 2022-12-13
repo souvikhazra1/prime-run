@@ -95,7 +95,8 @@ class MainApp(QtWidgets.QMainWindow, ui_main_window.Ui_MainWindow):
             idx = idx + 1
 
     def start_app(self, command):
-        subprocess.Popen(['prime-run', *command.split(' ')], stdout=subprocess.PIPE, stderr=subprocess.PIPE, stdin=subprocess.PIPE)
+        print('prime-run ' + command)
+        subprocess.Popen(['prime-run', *command.split(' ')], stdout=sys.stdout, stderr=sys.stdout, stdin=sys.stdout)
 
     def resizeEvent(self, event):
         if not rendering:
